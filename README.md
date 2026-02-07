@@ -1,2 +1,2 @@
 # proyek-mysql
-Kumpulan latihan dan proyek dasar MySQL
+Kumpulan latihan dan tugas sekolah proyek dasar MySQL
